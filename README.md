@@ -102,7 +102,8 @@ src/main/java/zyjfassignment/boardgames/
    - java -cp out zyjfassignment.boardgames.app.Main(Executing java programme).
 ## Input/Output Example
 ---------------------------------------------------------------------------
-
+### `Screen Shoot`
+![Example Diagram](example.png)
 -```text
 PS C:\Users\14661\Desktop\src> java -cp out zyjfassignment.boardgames.app.Main
 Choose a game: 1) Dots & Boxes  2) Sliding Puzzle  3) Quoridor
@@ -116,8 +117,7 @@ Is player C an AI?  (1-none / 2-easy / 3-hard): 3
 ......
 
  
--**Screen Shoot**
-![Example Diagram](example.png)
+
 
 
 
